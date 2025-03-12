@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raham-404&label=Profile%20views&color=0e75b6&style=flat" alt="raham-404" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raham-404" alt="raham-404" /></a> </p>
+
 
 - 🔭 I’m currently working on **on a AI Chatbot**
 
