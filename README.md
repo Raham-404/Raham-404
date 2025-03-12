@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **on a AI Chatbot**
+- 🔭 I’m currently working on **on an AI Chatbot**
 
 - 🌱 I’m currently learning **React**
 
